@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248955049292",
+    "project_id": "demoresturent",
+    "storage_bucket": "demoresturent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248955049292:android:39e10c1e4753ff2387abe9",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexercise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9w7oz54jQbbgxJkUCbELXv-NxR5mtAso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
